@@ -23,13 +23,3 @@ Get the source code and resources folder, put them in the same parent folder and
 python3 Snake.py
 
 ________________________________________________________________________________________________________________________________________
-
-######################
-TEAM MEMBERS
-######################
-
-Rohit NS - 20BAI10030
-Abin Chandran - 20BAI10089
-Ram Govind V - 20BAI10143
-Jessica Johny - 20BAI10193
-
